@@ -1,3 +1,5 @@
+package br.com.exercicios.cursos;
+
 import javax.swing.JOptionPane;
 
 

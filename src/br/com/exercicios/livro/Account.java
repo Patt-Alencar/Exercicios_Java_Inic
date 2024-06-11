@@ -1,3 +1,5 @@
+package br.com.exercicios.livro;
+
 public class Account {
     private String name;
     private double balance;

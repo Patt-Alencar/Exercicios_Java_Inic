@@ -1,3 +1,5 @@
+package br.com.exercicios.livro;
+
 import java.util.Scanner;
 
 public class AccountTest {
